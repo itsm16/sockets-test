@@ -73,15 +73,3 @@ const io = new Server(server, {
     }
 })
 ```
-
-## Development
-
-The project uses ES modules (`"type": "module"` in package.json) and includes a development script with file watching:
-
-```bash
-pnpm run dev
-```
-
-## License
-
-ISC
