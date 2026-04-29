@@ -2,6 +2,11 @@
 
 A real-time chat application built with Node.js, Express, and Socket.IO. This project demonstrates WebSocket functionality for creating interactive, multi-user chat rooms with typing indicators.
 
+### demo-client
+```
+https://drive.google.com/file/d/1jguGTor89IHf1fZ4R8cvKDKs9dAegvLD/view?usp=sharing
+```
+
 ## Features
 
 - **Real-time messaging** - Instant message delivery between users in the same room
